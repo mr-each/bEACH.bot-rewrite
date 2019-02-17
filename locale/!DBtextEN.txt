@@ -1,0 +1,18 @@
+﻿%placeholder%
+You need to chose integer value!
+messages deleted.
+Wrong number of messages! You need to chose between 1 and 99.
+You don't have permissions to do that!
+You have to write some name!
+The achievement "**
+**" was created!
+Pls, mention the person you wanna bully.
+— James "Jimmy" Hopkins
+Hey, 
+Making rainbow role...
+The role is already existing...
+Done...
+RAINBOOMING...
+RAINBOOMING ended...
+RAINBOOMING status: 
+You don't have permissions to do that!

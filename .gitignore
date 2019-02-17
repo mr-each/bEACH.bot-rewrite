@@ -1,0 +1,12 @@
+#Python
+__pycache__
+.vscode
+
+#Old versions
+DBv
+
+#Stuff
+DBtoken.txt
+out.png
+config.json
+users.json
